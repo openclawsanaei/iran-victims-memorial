@@ -198,5 +198,835 @@
     "story": "Ziba Dastjerdi, 33, from Neyshabur, was killed during the January 2026 protests. She is among the many women who gave their lives for freedom.",
     "source": "NCRI / PMOI",
     "photo": null
+  },
+  {
+    "name": "Iman Kazemi",
+    "age": 32,
+    "city": "Tehran",
+    "id": 21,
+    "date": "2026-01-??",
+    "story": "Iman Kazemi was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Hamidreza Moeinifar",
+    "age": 23,
+    "city": "Tehran",
+    "id": 22,
+    "date": "2026-01-??",
+    "story": "Hamidreza Moeinifar was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Nasrin Zarmanesh",
+    "age": 39,
+    "city": "Tehran",
+    "id": 23,
+    "date": "2026-01-??",
+    "story": "Nasrin Zarmanesh was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Abolfazl Esmaeili",
+    "age": 40,
+    "city": "Tehran",
+    "id": 24,
+    "date": "2026-01-??",
+    "story": "Abolfazl Esmaeili was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Ahmad Bolouri",
+    "age": 26,
+    "city": "Tehran",
+    "id": 25,
+    "date": "2026-01-??",
+    "story": "Ahmad Bolouri was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Amir Javadifar Langroudi",
+    "age": 39,
+    "city": "Tehran",
+    "id": 26,
+    "date": "2026-01-??",
+    "story": "Amir Javadifar Langroudi was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Amir-Hossein Razgardani",
+    "age": 24,
+    "city": "Tehran",
+    "id": 27,
+    "date": "2026-01-??",
+    "story": "Amir-Hossein Razgardani was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Amir-Hossein Shakarami",
+    "age": 22,
+    "city": "Tehran",
+    "id": 28,
+    "date": "2026-01-??",
+    "story": "Amir-Hossein Shakarami was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Amir-Hossein Kiadarbandsari",
+    "age": 32,
+    "city": "Tehran",
+    "id": 29,
+    "date": "2026-01-??",
+    "story": "Amir-Hossein Kiadarbandsari was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Amir-Reza Rostami",
+    "age": 22,
+    "city": "Tehran",
+    "id": 30,
+    "date": "2026-01-??",
+    "story": "Amir-Reza Rostami was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Atena Razdar",
+    "age": 22,
+    "city": "Tehran",
+    "id": 31,
+    "date": "2026-01-??",
+    "story": "Atena Razdar was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Arvin Vafaie",
+    "age": 17,
+    "city": "Tehran",
+    "id": 32,
+    "date": "2026-01-??",
+    "story": "Arvin Vafaie was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Behrouz Amin",
+    "age": 45,
+    "city": "Tehran",
+    "id": 33,
+    "date": "2026-01-??",
+    "story": "Behrouz Amin was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Parsa Rahmati",
+    "age": 20,
+    "city": "Tehran",
+    "id": 34,
+    "date": "2026-01-??",
+    "story": "Parsa Rahmati was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Parnia Khalaji",
+    "age": 17,
+    "city": "Tehran",
+    "id": 35,
+    "date": "2026-01-??",
+    "story": "Parnia Khalaji was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Javad Aghamohammadi",
+    "age": 30,
+    "city": "Tehran",
+    "id": 36,
+    "date": "2026-01-??",
+    "story": "Javad Aghamohammadi was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Hassan Lotfi",
+    "age": 35,
+    "city": "Tehran",
+    "id": 37,
+    "date": "2026-01-??",
+    "story": "Hassan Lotfi was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Hossein Farahi",
+    "age": 51,
+    "city": "Tehran",
+    "id": 38,
+    "date": "2026-01-??",
+    "story": "Hossein Farahi was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Hamid Shirbandi",
+    "age": 40,
+    "city": "Tehran",
+    "id": 39,
+    "date": "2026-01-??",
+    "story": "Hamid Shirbandi was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Hamid Nik",
+    "age": 39,
+    "city": "Tehran",
+    "id": 40,
+    "date": "2026-01-??",
+    "story": "Hamid Nik was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Danial Moradizadeh",
+    "age": 21,
+    "city": "Tehran",
+    "id": 41,
+    "date": "2026-01-??",
+    "story": "Danial Moradizadeh was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Reza Armand",
+    "age": 32,
+    "city": "Tehran",
+    "id": 42,
+    "date": "2026-01-??",
+    "story": "Reza Armand was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Soleiman Parhizkar",
+    "age": 17,
+    "city": "Tehran",
+    "id": 43,
+    "date": "2026-01-??",
+    "story": "Soleiman Parhizkar was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Samaneh Asgari Bazargani",
+    "age": 24,
+    "city": "Tehran",
+    "id": 44,
+    "date": "2026-01-??",
+    "story": "Samaneh Asgari Bazargani was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Soheil Safari",
+    "age": 22,
+    "city": "Tehran",
+    "id": 45,
+    "date": "2026-01-??",
+    "story": "Soheil Safari was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Abbas Eshaghi",
+    "age": 39,
+    "city": "Tehran",
+    "id": 46,
+    "date": "2026-01-??",
+    "story": "Abbas Eshaghi was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Asal Mansouri",
+    "age": 30,
+    "city": "Tehran",
+    "id": 47,
+    "date": "2026-01-??",
+    "story": "Asal Mansouri was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Ali Behrouzi",
+    "age": 25,
+    "city": "Tehran",
+    "id": 48,
+    "date": "2026-01-??",
+    "story": "Ali Behrouzi was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Ali Bayat",
+    "age": 38,
+    "city": "Tehran",
+    "id": 49,
+    "date": "2026-01-??",
+    "story": "Ali Bayat was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Ali Pourakrami",
+    "age": 20,
+    "city": "Tehran",
+    "id": 50,
+    "date": "2026-01-??",
+    "story": "Ali Pourakrami was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Ali Rezaei",
+    "age": 19,
+    "city": "Tehran",
+    "id": 51,
+    "date": "2026-01-??",
+    "story": "Ali Rezaei was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Alireza Seyedi",
+    "age": 16,
+    "city": "Tehran",
+    "id": 52,
+    "date": "2026-01-??",
+    "story": "Alireza Seyedi was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Fatemeh Fatemi",
+    "age": 42,
+    "city": "Tehran",
+    "id": 53,
+    "date": "2026-01-??",
+    "story": "Fatemeh Fatemi was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Farhad Amani",
+    "age": 20,
+    "city": "Tehran",
+    "id": 54,
+    "date": "2026-01-??",
+    "story": "Farhad Amani was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Farhad Sohrab",
+    "age": 35,
+    "city": "Tehran",
+    "id": 55,
+    "date": "2026-01-??",
+    "story": "Farhad Sohrab was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Fouad Safaei",
+    "age": 23,
+    "city": "Tehran",
+    "id": 56,
+    "date": "2026-01-??",
+    "story": "Fouad Safaei was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Maria Karimi",
+    "age": 58,
+    "city": "Tehran",
+    "id": 57,
+    "date": "2026-01-??",
+    "story": "Maria Karimi was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Mani Tazeh Azar",
+    "age": 19,
+    "city": "Tehran",
+    "id": 58,
+    "date": "2026-01-??",
+    "story": "Mani Tazeh Azar was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Mahan Motaghi",
+    "age": 19,
+    "city": "Tehran",
+    "id": 59,
+    "date": "2026-01-??",
+    "story": "Mahan Motaghi was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Mohammad Khan-Mohammadi",
+    "age": 67,
+    "city": "Tehran",
+    "id": 60,
+    "date": "2026-01-??",
+    "story": "Mohammad Khan-Mohammadi was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Mohammad Radman",
+    "age": 24,
+    "city": "Tehran",
+    "id": 61,
+    "date": "2026-01-??",
+    "story": "Mohammad Radman was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Mohammad Golriz",
+    "age": 29,
+    "city": "Tehran",
+    "id": 62,
+    "date": "2026-01-??",
+    "story": "Mohammad Golriz was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Mohammad-Parsa Amini",
+    "age": 17,
+    "city": "Tehran",
+    "id": 63,
+    "date": "2026-01-??",
+    "story": "Mohammad-Parsa Amini was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Morteza Aslani",
+    "age": 24,
+    "city": "Tehran",
+    "id": 64,
+    "date": "2026-01-??",
+    "story": "Morteza Aslani was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Morteza Hamedani",
+    "age": 49,
+    "city": "Tehran",
+    "id": 65,
+    "date": "2026-01-??",
+    "story": "Morteza Hamedani was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Maryam Mohammad-Zaheri",
+    "age": 67,
+    "city": "Tehran",
+    "id": 66,
+    "date": "2026-01-??",
+    "story": "Maryam Mohammad-Zaheri was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Mehdi Eskandarian",
+    "age": 44,
+    "city": "Tehran",
+    "id": 67,
+    "date": "2026-01-??",
+    "story": "Mehdi Eskandarian was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Mehrdad Tavakoli",
+    "age": 17,
+    "city": "Tehran",
+    "id": 68,
+    "date": "2026-01-??",
+    "story": "Mehrdad Tavakoli was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Milad Bahrami",
+    "age": 38,
+    "city": "Tehran",
+    "id": 69,
+    "date": "2026-01-??",
+    "story": "Milad Bahrami was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Yasser Ghandali",
+    "age": 45,
+    "city": "Tehran",
+    "id": 70,
+    "date": "2026-01-??",
+    "story": "Yasser Ghandali was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Alireza Panahi",
+    "age": 25,
+    "city": "Tehran",
+    "id": 71,
+    "date": "2026-01-??",
+    "story": "Alireza Panahi was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Mehdi Talati",
+    "age": 47,
+    "city": "Tehran",
+    "id": 72,
+    "date": "2026-01-??",
+    "story": "Mehdi Talati was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Ali Qorbani",
+    "age": 30,
+    "city": "Tehran",
+    "id": 73,
+    "date": "2026-01-??",
+    "story": "Ali Qorbani was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Ahmad Shokrpour",
+    "age": 64,
+    "city": "Tehran",
+    "id": 74,
+    "date": "2026-01-??",
+    "story": "Ahmad Shokrpour was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Ali Rouzbahani",
+    "age": 29,
+    "city": "Tehran",
+    "id": 75,
+    "date": "2026-01-??",
+    "story": "Ali Rouzbahani was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Lia Lotfalian",
+    "age": 67,
+    "city": "Tehran",
+    "id": 76,
+    "date": "2026-01-??",
+    "story": "Lia Lotfalian was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Yasin Davoud-Nabi",
+    "age": 17,
+    "city": "Tehran",
+    "id": 77,
+    "date": "2026-01-??",
+    "story": "Yasin Davoud-Nabi was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Alireza Morovati",
+    "age": 21,
+    "city": "Tehran",
+    "id": 78,
+    "date": "2026-01-??",
+    "story": "Alireza Morovati was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Amir-Ali Pahlavanzadeh",
+    "age": 20,
+    "city": "Tehran",
+    "id": 79,
+    "date": "2026-01-??",
+    "story": "Amir-Ali Pahlavanzadeh was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Siavash Esmaeili",
+    "age": 22,
+    "city": "Tehran",
+    "id": 80,
+    "date": "2026-01-??",
+    "story": "Siavash Esmaeili was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Ali Balal",
+    "age": 21,
+    "city": "Tehran",
+    "id": 81,
+    "date": "2026-01-??",
+    "story": "Ali Balal was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Mohammad Tajik",
+    "age": 23,
+    "city": "Tehran",
+    "id": 82,
+    "date": "2026-01-??",
+    "story": "Mohammad Tajik was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Ehsan Afshari",
+    "age": 39,
+    "city": "Tehran",
+    "id": 83,
+    "date": "2026-01-??",
+    "story": "Ehsan Afshari was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Hossein Hoveyda",
+    "age": 26,
+    "city": "Tehran",
+    "id": 84,
+    "date": "2026-01-??",
+    "story": "Hossein Hoveyda was killed during the protests in Tehran in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Akbar Jahangiri",
+    "age": 36,
+    "city": "Isfahan",
+    "id": 85,
+    "date": "2026-01-??",
+    "story": "Akbar Jahangiri was killed during the protests in Isfahan in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Omid Hassanpour",
+    "age": 21,
+    "city": "Isfahan",
+    "id": 86,
+    "date": "2026-01-??",
+    "story": "Omid Hassanpour was killed during the protests in Isfahan in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Babak Jafari",
+    "age": 31,
+    "city": "Isfahan",
+    "id": 87,
+    "date": "2026-01-??",
+    "story": "Babak Jafari was killed during the protests in Isfahan in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Bita Akbari",
+    "age": 19,
+    "city": "Isfahan",
+    "id": 88,
+    "date": "2026-01-??",
+    "story": "Bita Akbari was killed during the protests in Isfahan in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Hamidreza Salimian",
+    "age": 27,
+    "city": "Isfahan",
+    "id": 89,
+    "date": "2026-01-??",
+    "story": "Hamidreza Salimian was killed during the protests in Isfahan in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Roshanak Molaei",
+    "age": 28,
+    "city": "Isfahan",
+    "id": 90,
+    "date": "2026-01-??",
+    "story": "Roshanak Molaei was killed during the protests in Isfahan in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Soroush Eshaghi",
+    "age": 16,
+    "city": "Isfahan",
+    "id": 91,
+    "date": "2026-01-??",
+    "story": "Soroush Eshaghi was killed during the protests in Isfahan in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Soroush Khabazian-Moghadam",
+    "age": 23,
+    "city": "Isfahan",
+    "id": 92,
+    "date": "2026-01-??",
+    "story": "Soroush Khabazian-Moghadam was killed during the protests in Isfahan in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Seyed Amin Qoreishi Shahraki",
+    "age": 32,
+    "city": "Isfahan",
+    "id": 93,
+    "date": "2026-01-??",
+    "story": "Seyed Amin Qoreishi Shahraki was killed during the protests in Isfahan in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Sadegh Asgari",
+    "age": 28,
+    "city": "Isfahan",
+    "id": 94,
+    "date": "2026-01-??",
+    "story": "Sadegh Asgari was killed during the protests in Isfahan in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Abdollah Hadizadeh",
+    "age": 47,
+    "city": "Isfahan",
+    "id": 95,
+    "date": "2026-01-??",
+    "story": "Abdollah Hadizadeh was killed during the protests in Isfahan in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Erfan Momeni",
+    "age": 21,
+    "city": "Isfahan",
+    "id": 96,
+    "date": "2026-01-??",
+    "story": "Erfan Momeni was killed during the protests in Isfahan in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Ali Ramezani",
+    "age": 30,
+    "city": "Isfahan",
+    "id": 97,
+    "date": "2026-01-??",
+    "story": "Ali Ramezani was killed during the protests in Isfahan in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Ali Qorbani",
+    "age": 43,
+    "city": "Isfahan",
+    "id": 98,
+    "date": "2026-01-??",
+    "story": "Ali Qorbani was killed during the protests in Isfahan in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Mohammadreza Shapouri",
+    "age": 23,
+    "city": "Isfahan",
+    "id": 99,
+    "date": "2026-01-??",
+    "story": "Mohammadreza Shapouri was killed during the protests in Isfahan in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Mehdi Samnar",
+    "age": 41,
+    "city": "Isfahan",
+    "id": 100,
+    "date": "2026-01-??",
+    "story": "Mehdi Samnar was killed during the protests in Isfahan in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Meysam Nouri",
+    "age": 26,
+    "city": "Isfahan",
+    "id": 101,
+    "date": "2026-01-??",
+    "story": "Meysam Nouri was killed during the protests in Isfahan in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Nima Shafiei",
+    "age": 22,
+    "city": "Isfahan",
+    "id": 102,
+    "date": "2026-01-??",
+    "story": "Nima Shafiei was killed during the protests in Isfahan in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
+  },
+  {
+    "name": "Hanieh Natarsia",
+    "age": 22,
+    "city": "Isfahan",
+    "id": 103,
+    "date": "2026-01-??",
+    "story": "Hanieh Natarsia was killed during the protests in Isfahan in January 2026. Source: NCRI/PMOI.",
+    "source": "NCRI/PMOI",
+    "photo": null
   }
 ]

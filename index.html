@@ -19,24 +19,67 @@
 
   <section class="hero">
     <div class="container hero__inner">
-      <h1 class="hero__title">In memory of the 2585+ martyrs<br>of the 2025-2026 Iranian uprising</h1>
+      <h1 class="hero__title">In memory of the martyrs<br>of the 2025-2026 Iranian uprising</h1>
       <p class="hero__subtitle">Each name below represents a life cut short by brutality. We honor their bravery and pledge to keep their memories alive.</p>
-      <div class="hero__count" id="count-display">Loading...</div>
+      <div class="hero__count" id="total-count"></div>
     </div>
   </section>
 
   <main class="main">
+    <!-- Filters -->
+    <section class="filters" aria-label="Filter victims">
+      <div class="container filters__inner">
+        <div class="filters__row">
+          <div class="filters__search">
+            <label for="search-input" class="filters__label">Search by name</label>
+            <input type="text" id="search-input" class="filters__input" placeholder="e.g., Ghazal, Ali" />
+          </div>
+          <div class="filters__city">
+            <label for="city-select" class="filters__label">Filter by city</label>
+            <select id="city-select" class="filters__select" multiple aria-label="Select cities (hold Ctrl/Cmd for multiple)">
+              <option value="">All cities</option>
+              <!-- populated by JS -->
+            </select>
+            <p class="filters__hint">Hold Ctrl (Windows) or Cmd (Mac) to select multiple cities</p>
+          </div>
+          <div class="filters__age">
+            <label for="age-range" class="filters__label">Age range: <span id="age-range-label">all</span></label>
+            <div class="filters__range-container">
+              <input type="range" id="age-min" class="filters__range" min="0" max="100" value="0" />
+              <input type="range" id="age-max" class="filters__range" min="0" max="100" value="100" />
+            </div>
+          </div>
+          <button id="clear-filters" class="filters__clear">Clear all filters</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- Results count -->
+    <div class="results-info container">
+      Showing <span id="results-count">0</span> of <span id="total-victims">0</span> victims
+    </div>
+
+    <!-- Memorial Grid -->
     <section class="memorial" id="memorial-grid">
       <div class="container">
         <!-- Victim cards will be injected by JS -->
       </div>
     </section>
+
+    <!-- Pagination -->
+    <nav class="pagination" aria-label="Pagination">
+      <div class="container pagination__inner">
+        <button class="pagination__btn pagination__prev" disabled>Previous</button>
+        <div class="pagination__pages" id="pagination-pages"></div>
+        <button class="pagination__btn pagination__next">Next</button>
+      </div>
+    </nav>
   </main>
 
   <footer class="footer">
     <div class="container">
       <p>This memorial is a living project. We are gradually adding more verified names and stories.</p>
-      <p class="sources">Sources: BBC News Persian, Amnesty International, IHRDC, NCRI/PMOI</p>
+      <p class="sources">Sources: BBC News Persian, Amnesty International, IHRDC, NCRI/PMOI, Iran International</p>
     </div>
   </footer>
 
