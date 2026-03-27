@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Iran Victims Memorial</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <header class="header">
+    <div class="container header__inner">
+      <h1 class="logo">Iran Victims Memorial</h1>
+      <p class="tagline">We will not forget. We will not forgive.</p>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="container hero__inner">
+      <h1 class="hero__title">In memory of the 2585+ martyrs<br>of the 2025-2026 Iranian uprising</h1>
+      <p class="hero__subtitle">Each name below represents a life cut short by brutality. We honor their bravery and pledge to keep their memories alive.</p>
+      <div class="hero__count" id="count-display">Loading...</div>
+    </div>
+  </section>
+
+  <main class="main">
+    <section class="memorial" id="memorial-grid">
+      <div class="container">
+        <!-- Victim cards will be injected by JS -->
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <p>This memorial is a living project. We are gradually adding more verified names and stories.</p>
+      <p class="sources">Sources: BBC News Persian, Amnesty International, IHRDC, NCRI/PMOI</p>
+    </div>
+  </footer>
+
+  <!-- Modal for full story -->
+  <div class="modal" id="victim-modal" role="dialog" aria-modal="true" aria-label="Victim details">
+    <div class="modal__content">
+      <button class="modal__close" aria-label="Close">&times;</button>
+      <div class="modal__body"></div>
+    </div>
+  </div>
+
+  <script src="js/main.js"></script>
+</body>
+</html>

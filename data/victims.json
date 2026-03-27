@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "Ghazal Damarcheli",
+    "age": 17,
+    "city": "Karaj",
+    "date": "2026-01-09",
+    "story": "Ghazal was an art student with a passion for painting. She was shot by security forces outside her family home in Karaj on January 9, 2026. Even in death, her family faced pressure; security forces refused to let them bury her nearby, and she was interred in a remote cemetery far from home.",
+    "source": "BBC News Persian",
+    "photo": null
+  },
+  {
+    "id": 2,
+    "name": "Negin Ghadimi",
+    "age": 28,
+    "city": "Tonekabon",
+    "date": "2026-01-09",
+    "story": "Negin was a biotechnology student who joined protesters in Tonekabon despite her father's pleas to stay home. Security forces opened fire, and she was hit in the side. She fell into her father's arms and, as she lay dying, whispered, 'Dad, I'm burning.'",
+    "source": "BBC News Persian",
+    "photo": null
+  },
+  {
+    "id": 3,
+    "name": "Mohammad Ali (Sepehr) Foroughi Dehnavi",
+    "age": 43,
+    "city": "Tehran",
+    "date": "2026-01-18",
+    "story": "A respected pharmacist and Tehran resident, Mohammad Ali was killed during protests in the city on January 18, 2026. He was known for his kindness and dedication to community health. His death is one of the many tragic losses during the crackdown.",
+    "source": "Iran Human Rights Documentation Center (IHRDC)",
+    "photo": null
+  },
+  {
+    "id": 4,
+    "name": "Arvin Vafaie",
+    "age": 17,
+    "city": "Tehran",
+    "date": "2026-01-??",
+    "story": "Arvin was a young man from Tehran who lost his life during the January 2026 protests. He is remembered as a brave soul who stood up for freedom.",
+    "source": "NCRI / PMOI",
+    "photo": null
+  },
+  {
+    "id": 5,
+    "name": "Parnia Khalaji",
+    "age": 17,
+    "city": "Tehran",
+    "date": "2026-01-??",
+    "story": "Parnia, only 17, was among the many youth who died in the uprising. Her memory lives on as a symbol of courage and the future for which protesters fought.",
+    "source": "NCRI / PMOI",
+    "photo": null
+  },
+  {
+    "id": 6,
+    "name": "Ali Rezaei",
+    "age": 19,
+    "city": "Tehran",
+    "date": "2026-01-??",
+    "story": "Ali was a 19-year-old from Tehran. He was killed by security forces during the nationwide protests. His family and community mourn his loss and celebrate his bravery.",
+    "source": "NCRI / PMOI",
+    "photo": null
+  },
+  {
+    "id": 7,
+    "name": "Farhad Amani",
+    "age": 20,
+    "city": "Tehran",
+    "date": "2026-01-??",
+    "story": "Farhad, a 20-year-old Tehran resident, died in the protests. He is remembered by his loved ones as a kind and courageous young man who wanted a better Iran.",
+    "source": "NCRI / PMOI",
+    "photo": null
+  },
+  {
+    "id": 8,
+    "name": "Soheil Safari",
+    "age": 22,
+    "city": "Tehran",
+    "date": "2026-01-??",
+    "story": "Soheil was a 22-year-old from Tehran who lost his life during the January 2026 demonstrations. His memory inspires those who continue to seek justice.",
+    "source": "NCRI / PMOI",
+    "photo": null
+  },
+  {
+    "id": 9,
+    "name": "Samaneh Asgari Bazargani",
+    "age": 24,
+    "city": "Tehran",
+    "date": "2026-01-??",
+    "story": "Samaneh, a 24-year-old woman from Tehran, was killed during the protests. She represents the many brave women who stood on the front lines demanding freedom.",
+    "source": "NCRI / PMOI",
+    "photo": null
+  },
+  {
+    "id": 10,
+    "name": "Alireza Panahi",
+    "age": 25,
+    "city": "Tehran",
+    "date": "2026-01-??",
+    "story": "Alireza, age 25, from Tehran, died in the crackdown on protesters. His family mourns his loss and honors his sacrifice.",
+    "source": "NCRI / PMOI",
+    "photo": null
+  },
+  {
+    "id": 11,
+    "name": "Mehdi Talati",
+    "age": 47,
+    "city": "Tehran",
+    "date": "2026-01-??",
+    "story": "Mehdi Talati was a 47-year-old Tehran resident who lost his life during the protests. His death left a void in his family and community.",
+    "source": "NCRI / PMOI",
+    "photo": null
+  },
+  {
+    "id": 12,
+    "name": "Hossein Farahi",
+    "age": 51,
+    "city": "Tehran",
+    "date": "2026-01-??",
+    "story": "Hossein Farahi, 51, was killed during the January 2026 protests in Tehran. He is remembered as a supportive father and a brave citizen.",
+    "source": "NCRI / PMOI",
+    "photo": null
+  },
+  {
+    "id": 13,
+    "name": "Maria Karimi",
+    "age": 58,
+    "city": "Tehran",
+    "date": "2026-01-??",
+    "story": "Maria Karimi, 58, was one of the many women who died in the uprising. Her courage at an advanced age inspired many younger protesters.",
+    "source": "NCRI / PMOI",
+    "photo": null
+  },
+  {
+    "id": 14,
+    "name": "Mehrab Golestani",
+    "age": 17,
+    "city": "Isfahan",
+    "date": "2026-01-??",
+    "story": "Mehrab was a 17-year-old from Isfahan who was killed during the protests. His young life was cut short, but his memory lives on.",
+    "source": "NCRI / PMOI",
+    "photo": null
+  },
+  {
+    "id": 15,
+    "name": "Mohsen Rashidi",
+    "age": 42,
+    "city": "Isfahan",
+    "date": "2026-01-??",
+    "story": "Mohsen Rashidi, 42, from Isfahan, died in the crackdown. He is remembered by his family and friends as a caring and brave individual.",
+    "source": "NCRI / PMOI",
+    "photo": null
+  },
+  {
+    "id": 16,
+    "name": "Mona Hosseini",
+    "age": 55,
+    "city": "Malekshahr, Isfahan",
+    "date": "2026-01-??",
+    "story": "Mona Hosseini, 55, from Malekshahr in Isfahan province, was killed during the protests. Her loss is deeply felt by her community.",
+    "source": "NCRI / PMOI",
+    "photo": null
+  },
+  {
+    "id": 17,
+    "name": "Omid Norouzi",
+    "age": 35,
+    "city": "Rasht",
+    "date": "2026-01-??",
+    "story": "Omid Norouzi, 35, from Rasht, died in the January 2026 uprising. He is remembered for his bravery and dedication to a better future for Iran.",
+    "source": "NCRI / PMOI",
+    "photo": null
+  },
+  {
+    "id": 18,
+    "name": "Parisa Naghibi",
+    "age": 45,
+    "city": "Rasht",
+    "date": "2026-01-??",
+    "story": "Parisa Naghibi, a 45-year-old woman from Rasht, was killed in the protests. Her memory is honored by those who continue the struggle for freedom.",
+    "source": "NCRI / PMOI",
+    "photo": null
+  },
+  {
+    "id": 19,
+    "name": "Kamran Akbari",
+    "age": 45,
+    "city": "Kermanshah",
+    "date": "2026-01-??",
+    "story": "Kamran Akbari, 45, from Kermanshah, lost his life during the nationwide protests. His family and community remember his courage.",
+    "source": "NCRI / PMOI",
+    "photo": null
+  },
+  {
+    "id": 20,
+    "name": "Ziba Dastjerdi",
+    "age": 33,
+    "city": "Neyshabur",
+    "date": "2026-01-??",
+    "story": "Ziba Dastjerdi, 33, from Neyshabur, was killed during the January 2026 protests. She is among the many women who gave their lives for freedom.",
+    "source": "NCRI / PMOI",
+    "photo": null
+  }
+]
