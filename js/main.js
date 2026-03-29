@@ -13,8 +13,18 @@ document.addEventListener('DOMContentLoaded', () => {
   const paginationPrev = document.querySelector('.pagination__prev');
   const paginationNext = document.querySelector('.pagination__next');
   const modal = document.getElementById('victim-modal');
-  const modalBody = document.querySelector('.modal__body');
-  const modalClose = document.querySelector('.modal__close');
+  const modalCloseBtn = document.querySelector('.modal__close');
+  const modalTitle = document.getElementById('modal-title');
+  const modalDesc = document.getElementById('modal-desc');
+  const modalStory = document.querySelector('.modal__story');
+  const modalSource = document.querySelector('.modal__source');
+
+  // Modal accessibility: focus management
+  let lastFocusedElement = null;
+
+  function getFocusableElements() {
+    return modal.querySelectorAll('button, [href], input, textarea, select, [tabindex]:not([tabindex="-1"])');
+  }
 
   const PAGE_SIZE = 20;
 
@@ -229,32 +239,52 @@ document.addEventListener('DOMContentLoaded', () => {
   searchInput.addEventListener('input', debouncedApply);
   citySelect.addEventListener('change', applyFilters);
 
-  // Modal
+  // Modal accessibility focus management
   function openModal(v) {
+    lastFocusedElement = document.activeElement;
+
     const dateStr = v.date && v.date !== '2026-01-??'
       ? new Date(v.date).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })
       : 'January 2026 (date under verification)';
 
-    modalBody.innerHTML = `
-      <h2 style="font-family: var(--font-heading); font-size: 2rem; margin-bottom:0.5rem; color: var(--color-primary);">${v.name}</h2>
-      <p style="color: var(--color-text-muted); margin-bottom: 1rem;">
-        🎂 Age: ${v.age ?? 'Unknown'} &nbsp;|&nbsp; 📍 ${v.city} &nbsp;|&nbsp; 📅 ${dateStr}
-      </p>
-      <div style="line-height: 1.8; font-size: 1.05rem;">
-        ${v.story}
-      </div>
-      <p style="margin-top: 2rem; font-size: 0.85rem; color: var(--color-text-muted);">Source: ${v.source}</p>
-    `;
+    modalTitle.textContent = v.name;
+    modalDesc.innerHTML = `🎂 Age: ${v.age ?? 'Unknown'} &nbsp;|&nbsp; 📍 ${v.city} &nbsp;|&nbsp; 📅 ${dateStr}`;
+    modalStory.innerHTML = `<div style="line-height:1.8;font-size:1.05rem;">${v.story}</div>`;
+    modalSource.textContent = `Source: ${v.source}`;
+
     modal.classList.add('open');
     document.body.style.overflow = 'hidden';
+
+    // Set focus to close button (or first focusable element)
+    const focusable = getFocusableElements();
+    if (focusable.length) focusable[0].focus();
+
+    // Trap Tab key inside modal
+    document.addEventListener('keydown', modalKeyDown);
   }
 
   function closeModal() {
     modal.classList.remove('open');
     document.body.style.overflow = '';
+    document.removeEventListener('keydown', modalKeyDown);
+    if (lastFocusedElement) lastFocusedElement.focus();
   }
 
-  modalClose.addEventListener('click', closeModal);
+  function modalKeyDown(e) {
+    if (e.key === 'Tab' && modal.classList.contains('open')) {
+      const focusable = getFocusableElements();
+      if (focusable.length === 0) return;
+      const first = focusable[0];
+      const last = focusable[focusable.length - 1];
+      if (e.shiftKey && document.activeElement === first) {
+        e.preventDefault(); last.focus();
+      } else if (!e.shiftKey && document.activeElement === last) {
+        e.preventDefault(); first.focus();
+      }
+    }
+  }
+
+  modalCloseBtn.addEventListener('click', closeModal);
   modal.addEventListener('click', (e) => {
     if (e.target === modal) closeModal();
   });

@@ -12,7 +12,7 @@
 <body>
   <header class="header">
     <div class="container header__inner">
-      <h1 class="logo">Iran Victims Memorial</h1>
+      <p class="logo">Iran Victims Memorial</p>
       <p class="tagline">We will not forget. We will not forgive.</p>
     </div>
   </header>
@@ -84,10 +84,15 @@
   </footer>
 
   <!-- Modal for full story -->
-  <div class="modal" id="victim-modal" role="dialog" aria-modal="true" aria-label="Victim details">
+  <div class="modal" id="victim-modal" role="dialog" aria-modal="true" aria-labelledby="modal-title" aria-describedby="modal-desc">
     <div class="modal__content">
       <button class="modal__close" aria-label="Close">&times;</button>
-      <div class="modal__body"></div>
+      <div class="modal__body">
+        <h2 id="modal-title" class="modal__title"></h2>
+        <p id="modal-desc" class="modal__description"></p>
+        <div class="modal__story"></div>
+        <p class="modal__source"></p>
+      </div>
     </div>
   </div>
 
